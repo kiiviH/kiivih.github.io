@@ -1,4 +1,4 @@
-## Welcome to 猕猴桃的GitHub Pages
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kiiviH/lgel.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
